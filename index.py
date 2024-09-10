@@ -1,1 +1,2 @@
-print("hello world")
+from chai import chai
+print(chai)
